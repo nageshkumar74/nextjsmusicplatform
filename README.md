@@ -33,35 +33,35 @@ This project focuses on strong UI/UX, clean layout, and responsive design inspir
 ### 🏠 Hero Section
 A visually appealing landing section with a strong headline, supporting text, and call-to-action button.
 
-![Hero Section](./screenshots/hero-section.png)
+![Hero Section](./screenshot/Admin.png)
 
 ---
 
 ### 🎓 Courses Section
 Displays multiple music courses such as guitar, vocals, and music production using interactive cards and hover effects.
 
-![Courses Section](./screenshots/courses-section.png)
+![Courses Section](./screenshot/courses.png)
 
----
+---(./screenshot/corses.png)
 
 ### 📚 Learning Opportunities
 A content-focused section highlighting continuous learning and growth opportunities in music education.
 
-![Learning Opportunities](./screenshots/learning-section.png)
+![Learning Opportunities](./screenshot/Learnwithbest.png)
 
 ---
 
 ### 🎥 Featured Webinars
 A dark-themed section showcasing webinars like music theory, songwriting, live performance, and digital music marketing.
 
-![Featured Webinars](./screenshots/webinars-section.png)
+![Featured Webinars](./screenshot/FeaturedWebinar.png)
 
 ---
 
 ### 👨‍🏫 Meet Our Instructors
 An engaging instructor section featuring professional profiles enhanced with animated gradients and smooth transitions.
 
-![Instructors](./screenshots/instructors-section.png)
+![Instructors](./screenshot/Instructor.png)
 
 ---
 
